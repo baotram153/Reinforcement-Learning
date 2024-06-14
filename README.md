@@ -13,4 +13,4 @@
 – Piet Hein
 
 ## To-do
-- [] Modify the notes, add images
+- [ ] Modify the notes, add images
