@@ -11,3 +11,6 @@
 *and less."*
 
 – Piet Hein
+
+## To-do
+- [] Modify the notes, add images
