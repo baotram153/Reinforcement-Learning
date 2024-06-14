@@ -1,13 +1,13 @@
 # Reinforcement-Learning
 
-*﻿"The road to wisdom? Well, it's plain
-﻿and simple to express:
+*"The road to wisdom? Well, it's plain* \
+*and simple to express:* 
 
-﻿Err
-﻿and err
-﻿and err again
-﻿but less
-﻿and less
-﻿and less."
+*Err* \
+*and err* \
+*and err again* \
+*but less* \
+*and less* \
+*and less."*
 
-– Piet Hein*
+– Piet Hein
